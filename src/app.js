@@ -7,4 +7,4 @@ var Title = React.createClass({
     return React.createElement("h1", null, "Título");
   },
 });
-module.exports = Title;
+export default Title;
